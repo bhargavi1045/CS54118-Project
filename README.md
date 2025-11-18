@@ -1,4 +1,3 @@
-```markdown
 # SMS Spam Classifier Project
 
 This project implements a **SMS Spam Classification system** using three models: **Naive Bayes (NB), Neural Network (NN), and SVM**. The system can classify an SMS as **Spam** or **Ham** and compare the performance of all three models.
@@ -102,6 +101,11 @@ This will open the app in your default browser.
 * All models are pre-trained and saved in the `models/` folder.
 
 ---
+## Deployment Link
+[Click here to access the SMS Spam Detection App](https://sms-spamvsham-87lizgx3akrctvvxh8bycm.streamlit.app/)
+
+---
+
 
 ## Authors
 
@@ -116,6 +120,7 @@ This will open the app in your default browser.
 ## License
 
 This project is licensed under the MIT License.
+
 
 
 
